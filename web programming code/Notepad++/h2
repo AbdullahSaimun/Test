@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+	   <title> lab1 </title>
+	   </head>
+	   <body>
+	   <h1> this is header 1 </h1>
+	   <h2> this is header 1 </h2>
+	   <h3> this is header 1 </h3>
+	   
+	   <p style="color:red";> Hello Bangladesh </p>
+	   
+	   <marquee direction="bold" style="color:green;"> Abdulla Al Saimun </marquee>
+	   
+	   </body>
+</html>
